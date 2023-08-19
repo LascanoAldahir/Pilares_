@@ -16,13 +16,13 @@ En este ejemplo, la clase Persona encapsula los datos de nombre y edad utilizand
 ## Herencia
 La herencia permite que una clase herede propiedades y métodos de otra clase. Permitiendo la reutilización de código y tener una jerarquía de clases.
 ### Ejemplo
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](img.png)<br>
+![img_1.png](img_1.png)<br>
 En este ejemplo, la clase Coche hereda atributos y métodos de la clase base Vehiculo, y puede acceder a ellos para mostrar detalles específicos de un coche, como su marca y el número de puertas.
 
 ## Polimorfismo
 Permite que objetos de diferentes clases sean tratados como objetos de una misma clase por medio de interfaces o métodos compartidos. Se lograrse a través de la herencia y las interfaces.
 ### Ejemplo
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img_2.png](img_2.png)<br>
+![img_3.png](img_3.png)<br>
 En este ejemplo, tratar como objetos a diferentes subclases como si fueran objetos de la clase base, facilitando la manipulación y el procesamiento de diferentes tipos de objetos.
